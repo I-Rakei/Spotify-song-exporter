@@ -2,8 +2,8 @@ import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 
 # Replace with your Spotify Developer credentials
-CLIENT_ID = '2607b109a803498181bc284bec9953fa'
-CLIENT_SECRET = '82bad81415aa4789aaf0dcfabc24adda'
+CLIENT_ID = 'UR ID'
+CLIENT_SECRET = 'UR Secret'
 REDIRECT_URI = 'http://localhost:8888/callback'
 
 # Set the scope to read your liked songs
